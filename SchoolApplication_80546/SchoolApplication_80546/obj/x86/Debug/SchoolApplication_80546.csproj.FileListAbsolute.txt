@@ -1,0 +1,9 @@
+c:\users\80546\documents\visual studio 2010\Projects\SchoolApplication_80546\SchoolApplication_80546\bin\Debug\SchoolApplication_80546.exe
+c:\users\80546\documents\visual studio 2010\Projects\SchoolApplication_80546\SchoolApplication_80546\bin\Debug\SchoolApplication_80546.pdb
+c:\users\80546\documents\visual studio 2010\Projects\SchoolApplication_80546\SchoolApplication_80546\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\80546\documents\visual studio 2010\Projects\SchoolApplication_80546\SchoolApplication_80546\obj\x86\Debug\SchoolApplication_80546.Form1.resources
+c:\users\80546\documents\visual studio 2010\Projects\SchoolApplication_80546\SchoolApplication_80546\obj\x86\Debug\SchoolApplication_80546.Properties.Resources.resources
+c:\users\80546\documents\visual studio 2010\Projects\SchoolApplication_80546\SchoolApplication_80546\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\80546\documents\visual studio 2010\Projects\SchoolApplication_80546\SchoolApplication_80546\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\80546\documents\visual studio 2010\Projects\SchoolApplication_80546\SchoolApplication_80546\obj\x86\Debug\SchoolApplication_80546.exe
+c:\users\80546\documents\visual studio 2010\Projects\SchoolApplication_80546\SchoolApplication_80546\obj\x86\Debug\SchoolApplication_80546.pdb
